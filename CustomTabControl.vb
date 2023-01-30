@@ -5,6 +5,7 @@ Imports System.Windows.Forms
 'CustomTabControl
 'Created by: System32
 'https://github.com/System32-0
+'Preview video: https://gyazo.com/08cc1fb2266c354c608257af227ce969
 
 Public Class CustomTabControl
     Inherits TabControl
